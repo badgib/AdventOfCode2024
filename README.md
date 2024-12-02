@@ -1,6 +1,6 @@
 ## ADVENT OF CODE 2024 ##
 
-It's just my small repo to keep track of the tasks. It shall be updated with a one day delay not to encourage cheating
+It's just my small repo to keep track of the tasks. It shall be updated with a one day delay not to encourage cheating. I know that the code could be more optimised and generally done more pythonic way but it is what it is and it works. I try to comment up the code and make it readable so struggling people can maybe learn a thing or two.
 
 ### DAY ONE ###
 
