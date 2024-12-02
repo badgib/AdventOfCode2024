@@ -50,4 +50,4 @@ We got a two-column list of integers that needed to be parsed. First task requir
 
 ### DAY TWENTY-THREE ###
 
-### DAY TWENTYF-OUR ###
+### DAY TWENTY-FOUR ###
