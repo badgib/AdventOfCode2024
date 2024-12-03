@@ -8,6 +8,8 @@ We got a two-column list of integers that needed to be parsed. First task requir
 
 ### DAY TWO ###
 
+This time we will work on a bunch of ingeters in every line. We have to figure out if the numbers are within ±1 to ±3 and only increasing or decreasing but only in one 'direction'. Second task needed us to find out if the lines could adhere to previous rules if we could remove one of the numbers per line. Answers were both a number of found valid lines.
+
 ### DAY THREE ###
 
 ### DAY FOUR ###

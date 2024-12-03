@@ -1,14 +1,14 @@
 # Advent day one
 
-file_path = 'input.txt'
+import os
 
 # Init the two variables we're interested in for the two tasks at hand
 sumcounts = 0
 sumdiff = 0
 
 # Read all the lines and put them in a list
-with open(file_path, 'r') as file:
-    lines = file.readlines()
+with open(os.path.join(os.path.dirname(__file__), 'input.txt'), 'r') as file:
+    lines = file.readlines() 
 
 # Separate the columns into separate lists and convert the string to int
 col1, col2 = [], []
