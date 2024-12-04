@@ -12,6 +12,8 @@ This time we will work on a bunch of ingeters in every line. We have to figure o
 
 ### DAY THREE ###
 
+Today the first task was very straightforward (if you know regex) and required a very simple findall over the lines for certain pattern. A bit of simple multiplication and adding up the results and it's done. Second problem took me a while to understand where I made a mistake - forgot an edge-case of `don't\(\)` that has no `do\(\)` and instead it just ended on EOL. So a simple regex tweaking and it's done. A couple lines of code.
+
 ### DAY FOUR ###
 
 ### DAY FIVE ###
