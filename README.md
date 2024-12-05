@@ -16,6 +16,8 @@ Today the first task was very straightforward (if you know regex) and required a
 
 ### DAY FOUR ###
 
+Day four went pretty smoothly... for the first part, just had to make a matrix from the lines and go around and search for strings to show up in all the directions. Or one of them, rather. But yeah. That was fairly easy. The X MAS one with the two MAS making an X was a bit less trivial but still not that terribly different from first problem.
+
 ### DAY FIVE ###
 
 ### DAY SIX ###
