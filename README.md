@@ -20,6 +20,8 @@ Day four went pretty smoothly... for the first part, just had to make a matrix f
 
 ### DAY FIVE ###
 
+This one required some fun usages of libraries and tons of lists... inside other lists and lists all around... LISTS! AAAAAaaa...
+
 ### DAY SIX ###
 
 ### DAY SEVEN ###
